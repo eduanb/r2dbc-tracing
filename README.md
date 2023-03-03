@@ -1,3 +1,4 @@
+This is an example repository for https://github.com/spring-projects/spring-boot/issues/34466
 1. Run postgres:
 `docker run --name postgres -e POSTGRES_USER=user -e POSTGRES_PASSWORD=password -e POSTGRES_DB=mydb -d -p 5432:5432 postgres`
 2. Run app:
